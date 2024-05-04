@@ -1,8 +1,8 @@
 # SVD Desmistificado
 
-Este repositório contém um notebook Jupyter que explora a teoria e aplicações da decomposição em valores singulares (SVD). O notebook aborda desde fundamentos matemáticos, implementação do SVD e visualizações de transformações geométricas.
+Este repositório contém um notebook Jupyter que explora a teoria e aplicações da decomposição em valores singulares (SVD). O notebook aborda os fundamentos matemáticos, a implementação do SVD e visualizações de transformações geométricas.
 
-[Notebook](notebook.ipynb)
+## [Notebook](notebook.ipynb)
 
 ## Requisitos
 
