@@ -8,7 +8,7 @@ Este repositório contém um notebook Jupyter que explora a teoria e aplicaçõe
 
 ## Requisitos
 
-Para executar este notebook, você precisará de:
+Para executar este [notebook](notebook.ipynb), você precisará de:
 
 - Python 3.12.1 (em versões superiores podem haver mudanças de algumas libraries)
 - Dependencias de bibliotecas Python veja [requirements](requirements.txt)
