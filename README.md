@@ -16,7 +16,7 @@ Para executar este [notebook](notebook.ipynb), você precisará de:
 
 ## Referências
 
-As definições elementares de álgebra linear utilizadas nas notas deste repositório são em grande parte baseadas no livro "Linear Algebra Done Right" do autor Sheldon Axler.
+As definições elementares de álgebra linear utilizadas nas notas deste repositório são em grande parte baseadas no livro *"Linear Algebra Done Right"* do autor *Sheldon Axler*.
 
 ## Contribuindo
 
